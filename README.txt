@@ -74,7 +74,7 @@ Boot Sound - "YAY.mp3" by IFartInUrGeneralDirection (https://freesound.org/peopl
 Hurry Sound - "Hurry Up 8 Bit.wav" by Mrthenoronha (https://freesound.org/people/Mrthenoronha/sounds/518304/)
 
 -------------------------------------------------------------------------------------------------------------------------------
-Help/Insirations:
+Help/Inspirations:
 
 Nathan Altice: for giving good ideas in his AssetBonaza project.
 Lane Albrecht: Aiding me in fixing my timer not showing whole numbers.
