@@ -1,5 +1,5 @@
 Hello,
-Thank you for coming to the README file to READ ME.
+Thank you for coming to the README file to READ ME. My Game is called Castle Guard.
 If you desire to look through my code, you will find Comment blocks of things that I tried to implement
 Within these blocks I have attempted code and Reasons why I decided not to implement. Other Comment blocks are
 also placed throughout the classes, and these have mini explanations to what they do/ why they exist. I wrote
