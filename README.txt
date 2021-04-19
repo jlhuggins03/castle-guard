@@ -19,7 +19,7 @@ P.P.S I wanted to try and implement all mods, but I found that getting 100 point
 
 P.P.P.S I know that I have a "texture already in use error" its because the textures are loaded on a different scene. DO NOT WORRY.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Worked used:
 Base Game to mod [Nathan Altice's instructions, my hard work]
 
@@ -43,14 +43,14 @@ Menu and Play background music- "Medieval Fantasy Music Collection 1" by Noonsol
 Boot Sound - "YAY.mp3" by IFartInUrGeneralDirection (https://freesound.org/people/IFartInUrGeneralDirection/sounds/61691/) 
 Hurry Sound - "Hurry Up 8 Bit.wav" by Mrthenoronha (https://freesound.org/people/Mrthenoronha/sounds/518304/)
 
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 Help/Insirations:
 
 Nathan Altice: for giving good ideas in his AssetBonaza project.
 Lane Albrecht: Aiding me in fixing my timer not showing whole numbers.
 Colin O' Rourke: Gave good examples and helped out in the discord.
 Dragon flying inpiration: Sherif Radwan (https://www.pinterest.com/pin/428686458263249642/)
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 List of Scrapped Mods:
 
 2 player
@@ -63,4 +63,4 @@ animated sprites (flying dragons)
 random spawn directions
 Fire text
 Constant Highest Score Display
-----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
